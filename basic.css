@@ -1,0 +1,23 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+  color: rgb(46,105,163);
+  font-family:Palatino, 'Palatino Linotype', serif;
+	font-size: 56px;
+}
+
+h2 {
+	font-size: 36px;
+}
+.hero {
+    background-image: src("15947-arizona-free-wallpaper_1339.jpg");
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+      padding: 250px 0;
+      margin: 30px;
+      Background-size: cover;
+  }
